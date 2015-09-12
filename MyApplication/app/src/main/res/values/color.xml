@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="app_black">#000000</color>
+    <color name="gray">#999999</color>
+    <color name="lite_gray">#CCCCCC</color>
+    <color name="app_blue">#0068b3</color>
+    <color name="brown">#654321</color>
+    <color name="background">#D8000000</color>
+    
+
+    
+    
+    <color name="txt_blue">#0068b3</color>
+    <color name="grid_title_color">#CCFFFF</color>
+    <color name="product_header">#5e4b44</color>
+    <color name="product_feature">#000000</color>
+    <color name="product_list">#000000</color>
+
+    <color name="red">#e50000</color>
+
+    <color name="cal_brown">#b09187</color>
+    
+    
+    
+    
+
+</resources>
